@@ -1,0 +1,163 @@
+        body {
+            background-color: rgb(0, 0, 0);
+        }
+        
+        section {
+            background-color: rgb(35, 35, 36);
+            text-align: center;
+            margin: 200px 200px 0px 200px;
+            border-radius: 25px;
+        }
+        
+        section:hover {
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.342);
+        }
+        
+        #set1 {
+            padding: 20px;
+        }
+        
+        h1 {
+            color: white;
+        }
+        
+        #set2 {
+            background-color: rgba(0, 0, 0, 0.548);
+            color: white;
+            margin: 0px 30px 0px 30px;
+            border-radius: 20px;
+        }
+        
+        #userpart {
+            padding: 10px;
+        }
+        
+        #passwordpart {
+            padding: 10px;
+        }
+        
+        #name {
+            border-radius: 20px;
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        #pass {
+            border-radius: 20px;
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        #name:hover {
+            border-color: rgb(255, 0, 0);
+            padding: 10px 40px 10px 40px;
+        }
+        
+        #pass:hover {
+            border-color: rgb(255, 0, 0);
+            padding: 10px 40px 10px 40px;
+        }
+        
+        #but-1 {
+            padding: 10px 20px 10px 20px;
+            margin: 10px;
+            border-radius: 20px;
+            background-color: white;
+        }
+        
+        #but-2 {
+            padding: 10px 20px 10px 20px;
+            margin: 10px;
+            border-radius: 20px;
+            background-color: white;
+        }
+        
+        #but-1:hover {
+            background-color: red;
+            color: white;
+            border-color: white;
+        }
+        
+        #but-2:hover {
+            background-color: red;
+            color: white;
+            border-color: white;
+        }
+        
+        #cad {
+            color: white;
+            padding: 0px 10px 10px 10px;
+        }
+        
+        #cad:hover {
+            color: red
+        }
+        
+        #singup {
+            color: white;
+            text-decoration: none;
+        }
+        
+        #singup:hover {
+            color: red;
+        }
+        
+        #spec-1 {
+            color: white;
+            padding: 20px;
+        }
+        
+        .spec-a1 {
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        .spec-b1 {
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        .spec-c1 {
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        .spec-d1 {
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        .spec-e1 {
+            padding: 10px 10px;
+            background-color: rgba(175, 175, 175, 0.192);
+            color: rgb(255, 0, 0);
+            border-color: white;
+        }
+        
+        .spec-c {
+            margin-right: 20px;
+        }
+        
+        .spec-d {
+            margin-right: 1px;
+        }
+        
+        .spec-e {
+            margin-right: 75px;
+        }
+        
+        #spec-2 {
+            padding-bottom: 20px;
+        }
